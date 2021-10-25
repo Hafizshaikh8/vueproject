@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "name": "hafiz",
+      "email": "hafiz123@gmail",
+      "password": "abc@123456",
+      "id": 1
+    },
+    {
+      "email": "hagzi",
+      "name": "hafiz",
+      "password": "ksjfs",
+      "id": 2
+    },
+    {
+      "email": "sh2123",
+      "name": "shaikh",
+      "password": "1112233",
+      "id": 3
+    },
+    {
+      "email": "sh2123",
+      "name": "shaikhfghjkll",
+      "password": "1112233",
+      "id": 4
+    },
+    {
+      "email": "sh2123",
+      "name": "shaikhfghjkll",
+      "password": "1112233",
+      "id": 5
+    },
+    {
+      "name": "hafiz",
+      "email": "hafiz123@gmail",
+      "password": "abc@123456",
+      "id": 6
+    },
+    {
+      "email": "mar@gmail.com",
+      "name": "mariyam",
+      "password": "marhaf",
+      "id": 7
+    },
+    {
+      "email": "gaura2123",
+      "name": "gaurav",
+      "password": "jdf9ugdgdf",
+      "id": 8
+    },
+    {
+      "email": "shakh13",
+      "name": "shaikh ",
+      "password": "asdf",
+      "id": 9
+    },
+    {
+      "email": "shaikh@123",
+      "name": "shaikh",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "email": "khan@123",
+      "name": "khan",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "email": "hafizzzz@",
+      "name": "hafizzzz",
+      "password": "12345",
+      "id": 12
+    },
+    {
+      "email": "abc@123",
+      "name": "abbbccc",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "email": "hii@",
+      "name": "hiii",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "email": "hafizshaikh@123",
+      "name": "hafiz",
+      "password": "12345",
+      "id": 15
+    },
+    {
+      "email": "new@123",
+      "name": "new ",
+      "password": "12345",
+      "id": 16
+    },
+    {
+      "email": "hafiz@1234",
+      "name": "khan hafiz",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "email": "123456",
+      "name": "123456",
+      "password": "123456",
+      "id": 18
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "contact": 12345678,
+      "address": "Mumbai"
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Delhi",
+      "contact": 222334455,
+      "id": 2
+    },
+    {
+      "name": "Mc.D",
+      "address": "Pune",
+      "contact": 987654332,
+      "id": 3
+    },
+    {
+      "name": "naaz",
+      "contact": 987654332,
+      "address": "kurla",
+      "id": 6
+    },
+    {
+      "name": "sahara hotel",
+      "address": "sion",
+      "contact": "1122334455",
+      "id": 7
+    },
+    {
+      "name": "lucky cafe",
+      "address": "sewri",
+      "contact": "2222220000",
+      "id": 8
+    },
+    {
+      "name": "Arab hotel",
+      "address": "Sewri",
+      "contact": "2345665432",
+      "id": 9
+    },
+    {
+      "name": "Hotel Dubai",
+      "address": "Dubai",
+      "contact": "345345345",
+      "id": 10
+    }
+  ]
+}
